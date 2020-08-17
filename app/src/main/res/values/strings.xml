@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DictionaryApp</string>
+    <string name="enter_word">Введите слово</string>
+    <string name="translation">Перевести</string>
+    <string name="language_input">язык ввода:</string>
+    <string name="language_output">язык перевода:</string>
+    <string name="noting_found">Ничего не нашлось</string>
+
+    <string name="error_choice_original_language">Выберите язык ввода</string>
+    <string name="error_choice_result_language">Выберите язык перевода</string>
+    <string name="error_need_cyrillic">Введите текст кириллицей</string>
+    <string name="error_need_lat">Введите текст латиницей</string>
+    <string name="error_empty_text">Введите текст для перевода</string>
+    <string name="error_no_connection">Проверьте соединение с интернетом</string>
+
+    <string name="item_result_mask">%d. %s</string>
+    <string name="item_current_query_and_language_mask">%s -> (%s)</string>
+
+    <array name="languages">
+        <item>Выберите язык</item>
+        <item>Английский</item>
+        <item>Русский</item>
+        <item>Немецкий</item>
+        <item>Французский</item>
+    </array>
+
+</resources>
